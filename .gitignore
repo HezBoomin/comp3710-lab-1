@@ -1,0 +1,18 @@
+# Python venvs
+.venv/
+venv/
+ENV/
+env/
+
+# Bytecode / build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.build/
+dist/
+*.egg-info/
+
+# OS junk
+.DS_Store
+Thumbs.db
